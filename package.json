@@ -1,0 +1,24 @@
+{
+  "name": "@cristianalu0101020730/hello-js-action-alu0101020730",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-PL-1920/hello-js-action-alu0101020730.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-PL-1920/hello-js-action-alu0101020730/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-PL-1920/hello-js-action-alu0101020730#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.3",
+    "@actions/github": "^2.1.1"
+  }
+}
